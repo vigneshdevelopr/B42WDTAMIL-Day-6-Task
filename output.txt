@@ -1,0 +1,57 @@
+1.
+  a)Vikram
+    RajKamal Film Corporation
+    PG-13
+
+    b)
+
+    Vikram
+ RajKamal Film Corporation
+ PG
+
+ c)
+
+ rating: "PG"
+studio: "sun pictures"
+title: "Varisu"
+
+
+rating: "PG"
+studio: "DC"
+title: "Justice League"
+
+d) 
+
+casino Royale
+ Eon Productions
+ PG-13
+
+ //--------------------------------------------------------------
+
+2)
+
+1
+red
+564.89
+Purple
+
+//----------------------------------------------------------------
+
+3) 
+
+Nationality: "indian"
+address: "12,ghandi st, chennai"
+age: 19
+blood_group: "o +ve"
+name: "ram"
+sex: "male"
+
+//---------------------------------------------------------------
+
+4)
+
+90
+
+//---------------------------------------------------------------
+
+
